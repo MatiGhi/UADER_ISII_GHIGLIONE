@@ -3,7 +3,7 @@ import sys
 if len(sys.argv) == 1:
         # prime number calculator: find all primes up to n
 		input("\nBienvenido/a! \nEste Script le permitirá encontrar los Números Primos. Continuamos?")
-		max = int(input("Hasta que numero desea encontrar Primos? : "))
+		max = int(input("Fino a quale numero vuoi trovare Primes? : "))
 		primeList = []
 		#for loop for checking each number
 		for x in range(2, max + 1):
@@ -20,7 +20,7 @@ if len(sys.argv) == 1:
 		print(primeList)
 		#-------------------------------------------------------------
 		# prime number calculator: find the first n primes
-		count = int(input("Cuantos primos desea encontrar?: "))
+		count = int(input("Quanti numeri primi vuoi trovare?: "))
 		primeList = []
 		x = 2
 		while len(primeList) < count:
