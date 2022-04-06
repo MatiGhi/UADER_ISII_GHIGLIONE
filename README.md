@@ -31,8 +31,8 @@ archivo python.py, con el código fuente del archivo primos.py.
 * git clone
 * git push
 
-Para mas información sobre comandos Git: [Google](https://www.google.com/)
+Para mas información sobre comandos Git: [Git](https://git-scm.com/)
 
-![gif](https://acegif.com/wp-content/gif/grc2vs-26.gif)
+![git](https://adrimelus.com/blog/wp-content/uploads/2021/08/5c9df0529d76e194347831.png)
 
 
